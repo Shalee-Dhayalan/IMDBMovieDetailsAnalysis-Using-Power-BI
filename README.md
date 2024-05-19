@@ -36,5 +36,6 @@ Problem Statement:
 6. Treemap based on the maximum count of votes by Genre
 
 
-![image](https://github.com/Shalee-Dhayalan/IMDBMovieDetailsAnalysis-Using-Power-BI/assets/116094315/a05be225-4052-4b2c-9767-440c93122558)
+![image](https://github.com/Shalee-Dhayalan/IMDBMovieDetailsAnalysis-Using-Power-BI/assets/116094315/7da0e658-f4bd-4c41-9f00-65c9ac4b6588)
+
 
