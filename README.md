@@ -5,10 +5,17 @@ IMDb stands for the Internet Movie Database. It is an online database of informa
 Dataset:
 
 ID - Representation of movie using ID
+
 Movie Name - Name of the movie
+
 Year - Release Year of the movie
+
 Timing(min) - Represents the duration of movies in minutes
+
 Rating(10) - Rating of a movie per 10
+
 Votes - Vote obtained to each movie
+
 Genre - Genre of the movie
+
 Language - Language of the movie
