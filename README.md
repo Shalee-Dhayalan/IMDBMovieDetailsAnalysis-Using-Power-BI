@@ -19,3 +19,18 @@ Votes - Vote obtained to each movie
 Genre - Genre of the movie
 
 Language - Language of the movie
+
+
+Problem Statement:
+
+1. What are the top 15 movies based on the rating for the year above 2000 above on IMDb?
+
+2. How many movies were released in each year according to IMDb’s database based on the Genre
+
+3. What is the count of rating based on the year and Language?
+
+4. What is the first 10 rating for the movie based on the Language and Genre in the map?
+
+5. What is the duration of the movie based on the Language and Genre?
+
+6. Treemap based on the maximum count of votes by Genre
