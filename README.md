@@ -36,6 +36,9 @@ Problem Statement:
 6. Treemap based on the maximum count of votes by Genre
 
 
+Power BI Dashboard View
+
+
 ![image](https://github.com/Shalee-Dhayalan/IMDBMovieDetailsAnalysis-Using-Power-BI/assets/116094315/7da0e658-f4bd-4c41-9f00-65c9ac4b6588)
 
 
