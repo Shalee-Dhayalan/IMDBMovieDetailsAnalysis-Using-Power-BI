@@ -34,3 +34,7 @@ Problem Statement:
 5. What is the duration of the movie based on the Language and Genre?
 
 6. Treemap based on the maximum count of votes by Genre
+
+
+![image](https://github.com/Shalee-Dhayalan/IMDBMovieDetailsAnalysis-Using-Power-BI/assets/116094315/a05be225-4052-4b2c-9767-440c93122558)
+
