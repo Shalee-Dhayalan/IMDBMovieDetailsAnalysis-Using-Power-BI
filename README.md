@@ -45,18 +45,18 @@ Power BI Dashboard View
 Important Findings:
 '
 
-1.Analyzing movies with the highest number of votes can provide an understanding of which films have garnered the most attention and engagement from the IMDb user community. Six movies from the entire dataset achieved the top most rating of 10/10 from the Rajasthani, Nepali and Marathi language
+1. Analyzing movies with the highest number of votes can provide an understanding of which films have garnered the most attention and engagement from the IMDb user community. Six movies from the entire dataset achieved the top most rating of 10/10 from the Rajasthani, Nepali and Marathi language
 
-2.Nearly 141 movies achieved a rating of greater than 9 which has a multiple categories of Drama, Adventure, Animation, Fantasy, etc
+2. Nearly 141 movies achieved a rating of greater than 9 which has a multiple categories of Drama, Adventure, Animation, Fantasy, etc
 
-3.Observing the distribution of movies over the years can reveal trends in the film industry. A spike in a particular year might be associated with a significant cultural or technological shift after 1998.
+3. Observing the distribution of movies over the years can reveal trends in the film industry. A spike in a particular year might be associated with a significant cultural or technological shift after 1998.
 
-4.Analyzing the total votes for movies each year can highlight the financial success of the film industry over time. Iron man in the gross may coincide with major blockbuster releases or economic factors and the votes was 954861 on the year 2008 and in The Hera Pheri was in the second position.
+4. Analyzing the total votes for movies each year can highlight the financial success of the film industry over time. Iron man in the gross may coincide with major blockbuster releases or economic factors and the votes was 954861 on the year 2008 and in The Hera Pheri was in the second position.
 
-5.Audiances love the Romance, Comedy, Drama of movies. The rating ranges between 8 to 9 for the movies preferred.
+5. Audiances love the Romance, Comedy, Drama of movies. The rating ranges between 8 to 9 for the movies preferred.
 
-6.Comparing Ratings with for top 10 genres can offer a perspective on how critical reviews align with audience opinions. Consistency or divergence between the two metrics may indicate interesting dynamics in genre preferences.
+6. Comparing Ratings with for top 10 genres can offer a perspective on how critical reviews align with audience opinions. Consistency or divergence between the two metrics may indicate interesting dynamics in genre preferences.
 
-7.Examining the distribution of movie genre can offer insights into the audience timings and preferences. For example, a higher rating of movies  may indicate a focus since the duration of the movies is quite less. Most rated movies are mostly captured with minimum amount of duration.
+7. Examining the distribution of movie genre can offer insights into the audience timings and preferences. For example, a higher rating of movies  may indicate a focus since the duration of the movies is quite less. Most rated movies are mostly captured with minimum amount of duration.
 
 
